@@ -1,0 +1,225 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A book without a title</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77081</idno>
+            <idno type="STC">Wing B3722</idno>
+            <idno type="STC">Thomason E559_12</idno>
+            <idno type="STC">ESTC P1342</idno>
+            <idno type="EEBO-CITATION">99865164</idno>
+            <idno type="PROQUEST">99865164</idno>
+            <idno type="VID">117401</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77081)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117401)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 86:E559[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A book without a title</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "June 12 1649".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Newspapers.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:117401:1" rendition="simple:additions"/>
+            <head>A BOOK WITHOUT A TITLE.</head>
+            <p>
+               <hi>HAving long obſerved the folly of this Nation to be taken moſt with higheſt Titles, and loweſt Matters, in all weekly Tranſ<g ref="char:EOLhyphen"/>actions; and much pittying the People in this Deluſion, could find no other way herein for their future prevention, then to preſent them with</hi> A Sheet without a Title: <hi>And as it may ſeem ſtrange to ſome [though not ſo ſtrangeas true] becauſe not uſual: ſo it will ap<g ref="char:EOLhyphen"/>pear honeſt to all in ſpeaking truth without fear to every Intereſt for un<g ref="char:EOLhyphen"/>deceiving the people, [which others dare not do] though never ſo pre<g ref="char:EOLhyphen"/>judicial.</hi>
+            </p>
+            <p>
+               <hi>I ſhall begin with the</hi> Act <hi>this day publiſhed for ſetting a part a day of Publick Thankſgiving; which recites, How God hath appeared in the Cauſe of the Parliament and People againſt the Common Enemy ſince the firſt beginning of theſe late Wars:</hi> [God is ſtill put in the Van, to main<g ref="char:EOLhyphen"/>tain and ſupport the unjuſt Cauſes of all people under the Sun as the Scri<g ref="char:EOLhyphen"/>pture is to prove all Religions beſt and ſonndeſt.] But why the Peoples Cauſe? [They are not the Original of your Authority, and therefore you nor any other, can pretend to hold out their Cauſe, unleſs intruſted and re<g ref="char:EOLhyphen"/>quired by them: But all ſtill muſt go in the name of the People, becauſe there is no other way to ruin and enſlave them: But they did well to put the Parliament and People together, though they are very impudent to put Parliament before People; as if the People, the Supream, were Inferior to a few of their pretended Servants [whom they own not either as to call, or enforcements. <hi>They go on and judge of the Cauſe by ſucceſs</hi> [which is both abſurd and ridiculous] <hi>againſt the Common Enemy both of the true Religion and the Liberties of the Nation:</hi> [but who ſo common an Enemy as they that ſit by an unjuſt power (the original whereof being cut off) and ſtile themſelves the Supream Authority of England, Tax, Aſ<g ref="char:EOLhyphen"/>ſeſs,
+<pb n="2" facs="tcp:117401:2"/>and Diſpoſe of all the Eſtates of the Free Commoners without then conſent, making them beleeve they ſit for reſtoring their Freedoms, to give them eaſe, ſet up a true Religion, reforme all things in Church and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> are, whereas (like cuning Cheats) they ſit only to enrich themſelves with all the vaſt Receipts of the Publicke; upon Exciſe, Cuſtoms, Dean and Chapters, and Biſhops Lands, Aſſeſſements, Forreſt Lands, Parks, Chaſes, King, Queen, and Princes Revenue, ſale of all the Royal Goods, &amp;c. [which though it amount to neer a hundred and ſifty thouſand pounds a mouth] yet they lay greater Aſſeſſements upon the people then ever they did before they had theſe Revenues in their poſſeſſions, and continue Fre-Quarte upon them [though all Aſſeſſements paid] and yet the whole Charge of the Army and Navie is under the incombe of their Publick Receipt: And doth it not appear by their daily purchaſing great Eſtates, ſending over Coffers of Silver beyond Sea, marrying their Children to the greateſt for. tunes in the Nation (though moſt of themſelves had but ſmall Eſtates be<g ref="char:EOLhyphen"/>fore) that (with theſe Publick Monies, and the great benefit they have by all the great Places and Offices in the Nation which they have beſtowed upon themſelves, but ought to be imployed for the publick good of the No<g ref="char:EOLhyphen"/>tion) they ſtill ſit to Delude the people, and inrich themſelves with the ruins of the Nation; and can the people have greater Enemies or ſadder Judge<g ref="char:EOLhyphen"/>ments then theſe Catterpillers that devoure all before them? And are they not good preſervers of the Liberties of the Nation, when as they deſtroy al the Laws of the Land which only gives Liberty to the Nation, and Act by Arbitrary Acts and Ordinances whereby no man hath any certainty of his Eſtate, Life, or Being; mixing the Martial power with the Civil, as in the time of the curſed Conqueror, ſeizing the Perſons and Eſtates of the people with Souldiers, for pretended Civil offences; and killing the pour Watermen and others with Musketiers for Rowing upon the Sabl<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>, though they had not any Prohibition before for ſo doing, (yet they willingly allow of Coaches on that day, an offence every wayes equal to the former) Examine men upon matter of Fact againſt themſelves, and commit them cloſe Priſoners [without any allowance] only upon ſuſpition of Treaſon, and continue them ſo without Tryal or Diſcharge, contrary to the Law of the Land, and in violation to our chiefeſt Liberties and Freedoms?</p>
+            <p>
+               <hi>Then they tell us of another Cloud that threatned a Storm by the liſt, Summers Inſurrection, the Scors Invaſion, and the Revolt at Sea,</hi> [is al which moſt of themſelves by ſubtile connivance, private aſſiſtance, or pub<g ref="char:EOLhyphen"/>lick action, had as deep a finger therein as the Common Enemy, by wh<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> many of them had both aſſurance of Pardon and Reward] <hi>And yet they ſay they cannot but tranſmit the memory of theſe Mercies to Poſterity,
+<pb n="3" facs="tcp:117401:2"/>that the Generations to come may praiſe the Lord;</hi> [and ſtill the name of the Lord muſt be uſed prophanely, to make the people believe all their vain Deluſions, though they make it their ſole work and end of all their Deſigns to impoveriſh and enſlave them, which is moſt cleer and apparent, if you conſider the ſubſtance of what L. G. C. lately delivered upon Diſ<g ref="char:EOLhyphen"/>courſe with other Officers of the Army, viz. <hi>That the only way to ſettle and maintain an Arbitrary Power and Government in this Nation, was, To oppreſs the People with Aſſeſſements and Free-Quarter, and when they were in a low and poor Condition they ſhould ſubmit to any thing.</hi> And if we compare the preſent proceedings of the Army with thoſe of [the things called] the Parliament and Councel of State, we ſhall eaſily find thoſe Expreſſions now put in Execution, for the ruining of the Free People of this oppreſſed Nation.</p>
+            <p>
+               <hi>Then they tell us, That after all theſe Deliverances and ſtrange pro<g ref="char:EOLhyphen"/>vidences of the Almighty carrying on the Parliament in execution of Juſtice on the chief Author</hi> [not the hundredth part ſo great an Oppreſſor and cruel Tyrant as themſelves] <hi>and ſome of the eminent Inſtruments of both theſe Wars</hi> [which they did on purpoſe to exalt themſelves into the Throne, and ſtile themſelves the Supreme Authority of this Nation, whereby they might the better exerciſe their Tyrannie and cruelty upon the People] <hi>And that ſome hopeful Progreſs hath bin made in ſetling the Government of this Common-wealth</hi> [upon the rotten Foundations of Injuſtice, Oppreſſion, Self-Intereſt, Bloud, Tyrannie, and what not?] <hi>in ſuch a way as by Gods bleſſing</hi> [well, jeſt not too long with your hypocrifie, for God will not be mocked] <hi>as may ſecure it from the like Tyranie for the future</hi> [not a greater then now we are under] <hi>and be a foundation of Hap<g ref="char:EOLhyphen"/>pineſs and Freedom:</hi> [why do you jeer the poor people ſo often with thoſe moſt deſired words, and never intended things, Freedom and Happineſs? You know well their Freedom will be your ruine] <hi>And that the Parlia<g ref="char:EOLhyphen"/>ment having by theſe Troubles in England</hi> [occaſioned onely for your own Promotions and Self-Intereſts, as we now find by woful expérience] <hi>bin <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nterrupted for ſending relief to Ireland]</hi> What, do you now plow with <hi>Hollis</hi> and <hi>Stapletons</hi> heifer? that when they could not disband the Army under pretenſe of Ireland, therefore the honeſt party muſt be then (as now) <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iled the interrupters of the relief of Ireland, which they then as much <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tended to relieve, as L.G.C. does now] <hi>did now reſolve, by Gods aſſi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ance</hi> [which you have little cauſe to expect] <hi>to ſpeed a conſiderable force or reducing that Land to the obedience of the Parl. of England</hi> [But <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> by ſo fast? Do you really intend to reduce it, or is it your old Deſign to <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſen the People, to advance monies upon the purchaſing the Deans and
+<pb n="4" facs="tcp:117401:3"/>Chapters lands, as you did handſomly fool them before, in ſelling th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the Rebels lands before they were in your poſſeſſion, or their perſons conquired<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>It could hardly have bin ſuſpected that any, eſpecially ſuch as have pro<g ref="char:EOLhyphen"/>feſſed zeal for God, his Truth, and People</hi> (you do not ſurely mean your ſelves) <hi>ſhould have retarded ſo good a work, but rather ſhould have gi<g ref="char:EOLhyphen"/>ven aſſiſtance thereunto</hi> (what for? to ſuppreſs one enemy, and pla<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> an<g ref="char:EOLhyphen"/>uther; or elſe to make it a Sanctuary for you to fly to againſt a Free <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>pre<g ref="char:EOLhyphen"/>ſentative is called; Do you think men will venture lives and eſtates, rain their wives and families, only to ſupport your Tyrannies and private In<g ref="char:EOLhyphen"/>terests in that Nation as this, before they have eaſed the people of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> op<g ref="char:EOLhyphen"/>preſſors and oppreſſions, and ſetled a ſure foundation of a juſt Government by an equal Repreſentative?) <hi>the ſecurity of England, and Religion is ſelf being ſo much concerned in it.</hi> (Are you not aſhamed to mention Re<g ref="char:EOLhyphen"/>ligion as to a Martial Engagement, or if not, what Religion do you mean! the Peoples eys are opened now, you cannot longer cheat them with theſe ſpecious pretenſes of Religion, unleſs your ſelves were guilty in ſome mea<g ref="char:EOLhyphen"/>ſure of being religious; which if ſome ſay you are, yet your works will give them the ly, and diſclaim it) <hi>Yet at this time a new diſtemper diſcovered it ſelf</hi> (no marvel, when the whole Body of the Common-wealth is ſick even to death, by murthers, oppreſſions cruelties, tyrannies, <hi>&amp;c.</hi> that diſtempert ſhall break out, kindle, and foment) <hi>by ſome turbulent ſpirits</hi> (before whom never any tyranie could yet ſtand, and by whom you and yours ſhall fal, ſuch (when none of you durſt appear to aſſert and own the Peoples freedoms) did, like faithful Patriots, maintain them in times of greateſt danger and proſecuted the obſtructers thereof, till death had ſatisfied his indign<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ri<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> upon them) <hi>act<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d by Jeſuitical Councels and Principles</hi> (and thoſe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> your own! I am ſure none have more right to patronize thoſe bruts of <hi>Rome</hi> then your ſelves) <hi>deſtructive to Government</hi> (You dare <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut ſay destructive to <hi>Juſt</hi> Government, but onely to your uſurped Tyranie whith you call Government) <hi>who diſliking every thing whereof themſelves might not have the honour</hi> (when as they never yet propounded any thing for honor or profit to themſelves (though you do all for both) but ſuch <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> may be eſſentially good for all the Free people of the Nation) <hi>did deſign <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> pluck up all that bath bin planted</hi> (you mean all the weeds or tries th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> bring forth bad fruit, which ought not only to be pluckt up, but caſt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the fire) <hi>to bring the Nation into conſuſion;</hi> (what? by relieving the diſtreſſed, eaſing the People of their burdens and Oppreſſors!] <hi>deſtroy <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Propriety</hi> (not by declaring this Nation a Common-wealth, as you have lately done, which muſt of neceſſity deſtroy all intereſts, if you underſtand it as it is really, and not nominally; for the beſt Authors define it, a <hi>wo<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <pb n="5" facs="tcp:117401:3"/>equally common to all the Inhabitants of that Land which holds forth that Government:</hi> But beſides, Do you not find the greateſt Proviſion made in their Agreement, for preſerving Intereſt and Propriety? how then can you but bluſh to mention it?) <hi>Eradicate the Law, and true Liberty at once;</hi> (All that they ſtand for, as the maintenance of the Laws of the Land, and deſtruction of your Arbitrary power againſt Law; but ſurely Mr <hi>Prideaux</hi> meant in ſtead of Law and Liberty, they would have destroyed the benefit of his Two Places of Atturney General for the State, and Maſter of the Poſt and Currcers, which run him in <hi>10000</hi> 
+               <abbr>l.</abbr> per annum profit, although he never did the Nation <hi>10000</hi> pence benefit:) <hi>and obſtruct the Relief of Ireland,</hi> [you are reſolved I ſee to wear this old and falſe aſperſion thred bare before you leave it] <hi>which by this might otherwiſe have been ſent thither: And to that end by traducing the Actions of Parliament in the things which be<g ref="char:EOLhyphen"/>fore they were done, themſelves Petitioned for;</hi> (what were thoſe? are you afraid to name them, or ſhall I do it for you, and tell your meaning, <hi>viz.</hi> The taking off the Kings head and the Lords? but were they ever againſt taking them off without Law, and legall proceedings, if they were, did not they expect thereby to be made a Pree People by having the Normand yoke taken off, the Land eaſed of their burdens, and a new and equal Repreſentative ſoon after called, an Act of Oblivion paſt, and Account given of all the ſpent Treaſure, &amp;c. and not to lye under greater oppreſſions and miſery then formerly?) <hi>And upon unjuſt ſcandals of ſome chief Officers of the Army, the General himſelf being not ex<g ref="char:EOLhyphen"/>empted, whom God had made Inſtrumental in ſo many Victo<g ref="char:EOLhyphen"/>ries and preſervations of the whole Nation;</hi> Why ſo much faw<g ref="char:EOLhyphen"/>ning and clawing upon his Excellency? you love him as well as a Leveller, and both as one: But ſpeak really, are not you aſhamed to mention what theſe ſcandals were, for fear this (with the reſt) ſhould have been diſproved? or did you only flouriſh theſe generals to beg a belief in the people, having no particulars to mention) and by holding ſuch ſpecious pretences of Liberty and benefit to the People (as you have done for eight yeers together) <hi>had ſeduced ſome few of the Infirior Officers of the Army, and a conſiderable number of the Souldiery to decline the Service of Ireland,</hi> (till this Nation was ſetled upon Foundations of Juſtice and Freedom) <hi>and wrought a diſ-affection thereunto in many of thoſe who
+<pb n="6" facs="tcp:117401:4"/>were deſigned to that work: How dangerous that Deſign was in it ſelf, and how deeply laid, to the apparent hazard of Ire<g ref="char:EOLhyphen"/>land,</hi> (What again!) <hi>and the imbroyling this Nation in a f<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ther and moſt deſperate War;</hi> (for the recovery of their Lives, Liberties, and Eſtates which are now daily taken from them, and which only is the juſt Ground of any Martial Engagement) <hi>The Parliament of England being very ſenſible, and conſidering the ſpecial providence of God in the timely diſcovery of it,</hi> (and why muſt God ſtill be thus prophaned in his Providence, as if ſome ſecret diſcovery was made by it, when as all the Nation knows the Engagement was publick and open, and the juſt grounds thereof ſeveral times publiſhed in Print to the view of all) <hi>and the ſea<g ref="char:EOLhyphen"/>ſonableneſs of the Mercy, in cruſhing the Serpent in the Egge;</hi> (or rather the unſeaſonableneſs of this Judgement in murdering and powring out the pretious Bloud of ſo many of Gods dear chil<g ref="char:EOLhyphen"/>dren and true aſſertors of Englands Freedoms) <hi>and by his good hand</hi> (which doubtleſs will in time be avenged of theſe bloudy e<g ref="char:EOLhyphen"/>nemies to their ſhame and confuſion) <hi>upon the Forces under the General, ſuppreſſing that Rebellion and Inſurrection;</hi> (ſo could the Conqueror brand the People with Infamy and Rebellion after Conqueſt, though himſelf was the greateſt Tyrant and archeſt Ro<g ref="char:EOLhyphen"/>bel (from whence the preſent pretended Parliament had ſucceſſive<g ref="char:EOLhyphen"/>ly their firſt Inſtitution) that ever lived in this Nation) <hi>and ſo preventing the ſad and fearful Conſequence which it might have produced</hi> (no queſtion it had been a ſad and fearful Conſequence to you, in diſſolving your pretended power, but the happieſt conſe<g ref="char:EOLhyphen"/>quence that ever befel this Nation, by having you called to an Account for all the millions of Publick Treaſury which you have beſtowed upon your ſelves and Creatures; for eaſing the people of all their preſſing and unſupportable burthens, for making us real<g ref="char:EOLhyphen"/>ly, and not verbally, a Free Nation, but not Common-wealth, for ſetling a juſt Repreſentative, and redreſſing all the Peoples grie<g ref="char:EOLhyphen"/>vances, diſpoſing of your great Places and Offices for the good of the Nation, &amp;c. all which to you would have been of ſad Conſequence, and therefore you have juſt cauſe to complain) <hi>held themſelves in duty bound to acknowledge Gods goodneſs therein,</hi> (ſtill Gods goodneſs must be (as it hath alwayes been) abuſed, to cover over all Trayterous and devilliſh Deſigns) <hi>and to look upon it as a pledge of future Mercies to this poor and unworthy Nation:</hi>
+               <pb n="7" facs="tcp:117401:4"/>(which may in time be inriched again out of thoſe vaſte Estates which your ſelves have stoln from it, and then it may retort your jeer upon your ſelves, and call you poor unworthy Oppreſſers) <hi>and of his willingneſs to heale it, it we will be healed.</hi> (well, jeer on?) <hi>And therefore the Parliament do Enact and Ordain, and be it Enacted and Ordained, that a day of publike rejoycing</hi> (Sure they mean publike feaſting) <hi>and Thankſgiving to our gracious God</hi> (who ſaies he will not hear the prayers of the wicked, and their Sacrifices are an abomination unto him) <hi>for this wonderful and ſingular mercy</hi> (was it a wonderful morcy in that <hi>3000</hi> Horſe and Foot well armed and accomodated, ſhould take <hi>300</hi> naked men in their beds! or was it not a greater wonder and mercy that <hi>400</hi> ſhould eſcape out of their beds, though <hi>3000</hi> armed men had ſurrounded them? If truth was known, this was ſurely the cauſe of their thankſgiving and Feaſting, or ſhould be ſo at least wiſe) <hi>be obſerved on Thurſday the 7. of June 1649. in all Churches and Chappels within the City of London, Weſtminſter, and the late Lines of Communication, and Weekly Bills of Mor<g ref="char:EOLhyphen"/>tality</hi> (but we find most of them had more grace and honesty then to be ſo profane to rejoyce at ſo great a judgement) <hi>and in all other Churches and Chappels within England and Wales, on Thurſ<g ref="char:EOLhyphen"/>day the 28 of the ſame moneth</hi> (what, for murdering and but<g ref="char:EOLhyphen"/>chering the People of God! away for ſhame, and bluſh at this great blaſphemy, and unheard of cruelty!) <hi>They require the ſaid daies to be ſolemnly and religiouſly obſerved, that God be not provoked and diſhonored thereby</hi> (as if they knew God was not much provoked and diſhonored by ſome of their Gluttenies, Drunkenneſs, and (as I was credibly informed) Whoredoms on that day; and will not God be re<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>enged on ſuch ae blaſphemous people, who call his infinite Majeſty to patronize all their Tyra<g ref="char:EOLhyphen"/>nie, Oppreſſion, Murthers, and Cruelties, by their So<g ref="char:EOLhyphen"/>lemn, Hypocritical, and Vain-glorious daies of Thanks-giving? I profeſs my heart doth melt to think of Gods heavie judgments that will ere long, I fear, be executed on them.</p>
+            <p n="4">
+               <hi>4.</hi> June. <hi>A motion was made againſt M.</hi> Caſe, <hi>and others, that prayed for</hi> Charls <hi>the ſecond; The crutelties of all other Tyrants are mercies to theſe. The Quorum for relieving perſons grieved in Articles, ordered to be 9. becauſe they may never meet; 9 yeers time would not get 9 of a Committee together,
+<pb n="8" facs="tcp:117401:5"/>unleſs they were ſeaſted (as in the buſineſs of the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> almoſt daylie) The Priſoners of Dobt petitioned the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> paſſing their Ordinance (which is now ſo altered by the C<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>pillars, the long-robe men of the Houſe, that it will little or <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>thing avail them when paſt) Many Members this day ad<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>, There is a neceſſity for it, becauſe elſe they could not ba<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> a Houſe. Ninteen thouſand pounds of the Speakers own money in the Rolls, borrowed by ſome in nec<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lity; none are grieved it it, becauſe got ſo unjuſtly: 15000 <abbr>l.</abbr> ordered for ſupplies of ſhip<g ref="char:EOLhyphen"/>ing proviſions; and when their preſent ſtock is exhauſted, then C. will pray and weep again, to be reconciled to thoſe called Le<g ref="char:EOLhyphen"/>veilers. Capt.</hi> Biſhop <hi>ordered 100 <abbr>l.</abbr>
+               </hi> per. Annum <hi>for himſelf, and and 12 <abbr>d.</abbr>
+               </hi> per diem <hi>a piece for his Deputy Catch-poles, to ſerze all thoſe called Levellers, as diſ-affected perſons to the preſent Ty<g ref="char:EOLhyphen"/>ranical proceedings of the Juncto and their Councel of Chea<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. 3000 <abbr>l.</abbr> ordered Mrs</hi> Blaikeſton <hi>in reſpect of her late husba<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s loſſes, which were never 300 <abbr>l.</abbr> he lately purchaſed 7000 <abbr>l.</abbr> in the Biſhoptick, but never worth the ſeventh part of that ſum: 4000 <abbr>l.</abbr>
+               </hi> per annum <hi>to be ſetled on the General; you are very free of the Peoples Revenues; Did the people ever give you power thus to diſpoſe of the Treaſury of the Nation to on<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> your ſelves and your creatures? Do not many of the meaner far: ſell their clothes from their backs to pay Aſſeſments, and muſt the rich ſwallow it up at your pleaſures? Think you not we ex<g ref="char:EOLhyphen"/>pect an account from you? The Sword of the City to be deli<g ref="char:EOLhyphen"/>vered up to the Speaker when the Juncto comes to reaſt with their Cuſtard-bellies: a wiſe City, and well governed. A large Debate about Knighting the Lord Maior, the ſtinking Alder<g ref="char:EOLhyphen"/>man, and M.</hi> Iſaac Bul, <hi>becauſe ſome were cowards, others knaves and fools; theſe words of courſe were laid aſide. The Lieut. General and his Excellency, the Councel of Cheats, and the petty Junct<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> feaſted by the City Loggerheads. The Lieut. General, and the General, had Gold, and Plat beſides, preſent<g ref="char:EOLhyphen"/>ed to them; but all this kindneſs was more for fear then love. The Army and Juncto feared a ſurpriſe by the Levellers, and therefore moſt of the forces in or neer the City muſt Gu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d them, under pretenſe of an honorable Attendance.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
